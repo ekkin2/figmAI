@@ -1,4 +1,5 @@
 # figmAI
+**Project for TreeHacks 2023** by Nathan Lam, Adam Chun, Jack Walter, and Ekin Tiu
 
 <img width="732" alt="Screen Shot 2023-02-19 at 1 26 15 AM" src="https://user-images.githubusercontent.com/12751529/219941326-802f567c-ae11-4491-b557-272675c2ef91.png">
 
