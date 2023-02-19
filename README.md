@@ -1,4 +1,7 @@
 # figmAI
+
+<img width="732" alt="Screen Shot 2023-02-19 at 1 26 15 AM" src="https://user-images.githubusercontent.com/12751529/219941326-802f567c-ae11-4491-b557-272675c2ef91.png">
+
 ## Inspiration
 As a team with diverse skill sets, ranging from computer science to art and philosophy, we wanted to build something that encapsulated a problem and an interest that we all shared. This intersection was design. We realized, we've all gravitated towards design at some point in our academic careers. However, we realized that most of our design experience was related to drawing or ideating about products, and not so much of actual implementation in tools like Figma. 
 
