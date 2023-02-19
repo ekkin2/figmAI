@@ -1,4 +1,4 @@
-# Preact Rectangles
+# figmAI
 
 ## Development guide
 
